@@ -14,16 +14,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PostDoc researcher in Computer Science at INRIA Lille - Nord Europe, [Spirals](https://team.inria.fr/spirals/) team. 
+I am a Research Engineer in Computer Science at INRIA Lille - Nord Europe [RMoD](https://rmod.gitlabpages.inria.fr/website/) team. 
+Previously, I was a PostDoc / Research Engineer in [Spirals](https://team.inria.fr/spirals/) team. 
 
-Previously, I was a Ph.D. student at the University of Southern Denmark ([Concurrency and Logic](https://acp.sdu.dk) group) and Innopolis University, Russia.
+I did my Ph.D. at the University of Southern Denmark ([Concurrency and Logic](https://acp.sdu.dk) group) and Innopolis University, Russia.
 
 I am a member of the [Microservices Community](https://www.microservices.community) ethics group;
 
-I like programming languages, choreographic programming, microservices, and static analysis. 
+I like programming languages, software architecture, and program analysis. 
 
 You can find my actual [CV](/assets/pdf/cv.pdf) here. 
 
 Feel free to contact me by [email](mailto:larisa.safina@inria.fr).
-
-
