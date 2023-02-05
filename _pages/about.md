@@ -23,6 +23,4 @@ I am a member of the [Microservices Community](https://www.microservices.communi
 
 I like programming languages, software architecture, and program analysis. 
 
-You can find my actual [CV](/assets/pdf/cv.pdf) here. 
-
 Feel free to contact me by [email](mailto:larisa.safina@inria.fr).
