@@ -14,10 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Engineer in Computer Science at INRIA Lille - Nord Europe [RMoD](https://rmod.gitlabpages.inria.fr/website/) team. 
-Previously, I was a PostDoc / Research Engineer in [Spirals](https://team.inria.fr/spirals/) team. 
+I am a permanent researcher in Computer Science at INRIA Lille - Nord Europe [Evref](https://rmod.gitlabpages.inria.fr/website/) (ex RMoD) team. 
+Previously, I was a PostDoc / Research Engineer in RMoD and [Spirals](https://team.inria.fr/spirals/) teams. 
 
-I did my Ph.D. at the University of Southern Denmark ([Concurrency and Logic](https://acp.sdu.dk) group) and Innopolis University, Russia.
+I did my Ph.D. at the University of Southern Denmark ([Concurrency and Logic](https://acp.sdu.dk) group) and [Innopolis University](https://innopolis.university/en/), Russia.
 
 I am a member of the [Microservices Community](https://www.microservices.community) ethics group;
 
